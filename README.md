@@ -1,8 +1,8 @@
 # Hi 👋, I'm Abdullah Zahid
 
-### Data Scientist | Machine Learning | Analytics | MLOps | AWS
+### Data Scientist | Machine Learning | Analytics | MLOps | AWS & Azure
 
-I design and deploy end-to-end machine learning systems — from data engineering and model development to production deployment and monitoring.
+I design and deploy end-to-end machine learning systems, from data engineering and model development to production deployment and monitoring.
 
 My work focuses on building scalable, reliable, and business-driven ML solutions across analytics, forecasting, automation, and AI-powered systems.
 
@@ -13,7 +13,7 @@ My work focuses on building scalable, reliable, and business-driven ML solutions
 - End-to-end ML pipelines
 - Production-grade model deployment
 - MLOps & experiment tracking
-- Cloud-based ML architectures (AWS)
+- Cloud-based ML architectures (AWS, Azure)
 - Forecasting & advanced analytics
 - Generative AI & LLM applications
 
@@ -33,11 +33,8 @@ Power BI (Advanced), Tableau
 ### Machine Learning & AI
 Hugging Face Transformers, Weights & Biases (WandB), Generative AI, LLMs, Computer Vision, Automation
 
-### NLP
-NLTK
-
 ### Cloud & Infrastructure
-AWS (Lambda, S3, OpenSearch, Bedrock, Glue)
+AWS | Azure
 
 ### Dev & Deployment
 Git, GitHub, Docker
@@ -50,8 +47,8 @@ Data Preprocessing, Data Visualization, Microsoft Excel, PowerPoint, Google Docs
 ## 📫 Connect With Me
 
 📧 abdullahzahid6785@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/abdullah-zahid/
+🔗 LinkedIn: https://www.linkedin.com/in/abdullahzahid77/
 
 ---
 
-I focus on building scalable systems that move from experimentation to real-world deployment.
+
