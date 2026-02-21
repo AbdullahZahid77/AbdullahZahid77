@@ -46,7 +46,7 @@ Data Preprocessing, Data Visualization, Microsoft Excel, PowerPoint, Google Docs
 
 ## 📫 Connect With Me
 
-📧 abdullahzahid6785@gmail.com  
+📧 Mail: abdullahzahid6785@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/abdullahzahid77/
 
 ---
